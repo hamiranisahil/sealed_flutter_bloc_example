@@ -1,1 +1,1 @@
-# sealed_flutter_bloc_demo
+# sealed_flutter_bloc_example
